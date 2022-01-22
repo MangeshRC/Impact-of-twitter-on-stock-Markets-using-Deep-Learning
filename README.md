@@ -8,4 +8,4 @@ The data can be found in the Kaggle Pages Listed below:
 The Notebooks are numbered in a sequence of their executions. Some intermediate files will be generated in order for notebooks to function properly.
 
 The detailed blog for this Git Repo Can be found on Medium 
-Link for the blog : 
+Link for the blog : https://medium.com/@mangeshchoudhari/tweeter-impact-analysis-on-stock-markets-using-deep-learning-b9486e81ad98
